@@ -1,0 +1,13 @@
+C:\Users\yuris\Desktop\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.exe
+C:\Users\yuris\Desktop\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.deps.json
+C:\Users\yuris\Desktop\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.runtimeconfig.json
+C:\Users\yuris\Desktop\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.dll
+C:\Users\yuris\Desktop\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.pdb
+C:\Users\yuris\Desktop\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.AssemblyInfo.cs
+C:\Users\yuris\Desktop\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.dll
+C:\Users\yuris\Desktop\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.pdb
+C:\Users\yuris\Desktop\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.genruntimeconfig.cache
